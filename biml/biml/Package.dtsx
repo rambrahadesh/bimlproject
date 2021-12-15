@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="12/16/2021 10:45:54 AM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="RAM-LENOVA-YOGA"
+  DTS:CreatorName="RAM-LENOVA-YOGA\rambr"
+  DTS:DTSID="{C25CDA84-FA76-41AC-81D7-B994CA528433}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.170"
+  DTS:LocaleID="3081"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{74A5D2C7-438A-44A9-8428-6C4B32C260A9}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>
